@@ -17,3 +17,8 @@ remote:sumber yang memiliki repo
 clone:mengambil repo dari remote
 push:mengirimkan commit ke repo
 pull:mengambil commit ke repo
+
+Praktek awal di Github
+-Membuat akun di Github
+-Membuat Repository
+-Mengedit Repository dengan Menambahkan Commit
