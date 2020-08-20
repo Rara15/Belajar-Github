@@ -22,3 +22,10 @@ Praktek awal di Github
 -Membuat akun di Github
 -Membuat Repository
 -Mengedit Repository dengan Menambahkan Commit
+
+
+Braching
+-Membuat GitBranch
+-Membuat snapshot tanpa mengganggu jalur utama (Master Branch)
+-Fitur Experimental
+-2 Orang mengerjakan repo yg sama
